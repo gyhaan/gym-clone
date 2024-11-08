@@ -245,7 +245,7 @@ h3 {
   padding-left: 5px;
   display: flex;
   flex-direction: column;
-  gap: 3px;
+  gap: 5px;
 }
 
 .price {
@@ -254,8 +254,9 @@ h3 {
 
 .green {
   background-color: green;
-  padding: 5px;
-  font-size: 12px;
+  padding: 5px 8px;
+  font-size: 14px;
   color: white;
   font-weight: 500;
+  border-radius: 5px;
 }
