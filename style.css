@@ -223,3 +223,39 @@ h3 {
   color: white;
   font-weight: 500;
 }
+
+.trip {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.trip img {
+  min-width: 20%;
+  max-width: 300px;
+  min-height: 270px;
+  border-radius: 12px;
+}
+
+.trip h4 {
+  font-size: 18px;
+}
+
+.acc {
+  padding-left: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.price {
+  margin-bottom: 16px;
+}
+
+.green {
+  background-color: green;
+  padding: 5px;
+  font-size: 12px;
+  color: white;
+  font-weight: 500;
+}
